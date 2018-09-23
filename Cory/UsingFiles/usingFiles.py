@@ -4,6 +4,7 @@ import os
 
 #file = open(r'C:\Users\darks\Documents\GitHub\LearningPython\UsingFiles\z.txt')
 sum = 0
+#the r infront of the text means to read it as raw text and to not use the \z and \G or anything
 path = r'C:\Users\darks\Documents\GitHub\LearningPython\UsingFiles\z.txt'
 #file = open(path, 'r')
 
